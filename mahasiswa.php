@@ -1,4 +1,5 @@
 <?php 
+
 class mahasiswa{
 public $nim;
 public $nama;
@@ -8,5 +9,9 @@ public tambah(){
 public hapusMhs(){
 	return true;
 }
+public daftarLIRS(){
+	return true;
 }
+}
+
  ?>
