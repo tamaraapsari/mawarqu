@@ -5,5 +5,6 @@ public $nama;
 public tambah(){
 	return true;
 }
+
 }
  ?>
