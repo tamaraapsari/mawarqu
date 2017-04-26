@@ -8,10 +8,14 @@ public tambah(){
 }
 public hapusMhs(){
 	return true;
-}
-public daftarLIRS(){
+	}
+	public ubahMhs(){
+		return true;
+	}
+
+	public daftarLIRS(){
 	return true;
-}
+	}
 }
 
  ?>
